@@ -330,20 +330,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React community** for modern frontend tools
 - German language learning community for inspiration
 
----
 
-## 📧 Contact & Support
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
----
-
-**⭐ If you find this project helpful, please consider giving it a star! It helps other learners discover it.**
-
----
 
 *Last Updated: April 2026*
 *Status: Active Development*
